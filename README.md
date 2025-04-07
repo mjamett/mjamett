@@ -6,8 +6,7 @@
 <p>También realizo trabajos independientes en reparación y configuración de computadoras y otros trabajos de desarrollo.</p>
 
 
-
-🌱 Estoy aprendiendo Diseño web
+🌱 Estoy aprendiendo: [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
