@@ -6,7 +6,7 @@
 <p>También realizo trabajos independientes en reparación y configuración de computadoras y otros trabajos de desarrollo.</p>
 
 
-🌱 Estoy aprendiendo: [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,bash,arduino,php,git,github,postgres,mysql,linux,mint,debian,windows,raspberry&perline=6)](https://skillicons.dev)
+🌱 Estoy aprendiendo: [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,bash,arduino,php,git,github,postgres,mysql,linux,mint,debian,windows,raspberrypi&perline=6)](https://skillicons.dev)
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
