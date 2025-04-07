@@ -1,8 +1,7 @@
 <div align="center">
 <h1>Hola 👋, mi nombre es Macarena</h1>
-<h2>Soy una entusiasta de la computaciòn y la informática</h2>
-<img src="https://mjamett.cl/assets/img/logo12.png" />
- 
+<h2>Soy una entusiasta de la computación y la informática</h2>
+
 <p>Siempre estoy en constante estudio, me dedico a la docencia en un liceo tècnico. </p>
 <p>También realizo trabajos independientes en reparación y configuración de computadoras y otros trabajos de desarrollo.</p>
 
